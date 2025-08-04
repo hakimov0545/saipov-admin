@@ -62,7 +62,7 @@ const ProductDialog = ({
 		} else {
 			setFormData({
 				titleUz: "",
-				titleUz: "",
+				titleRU: "",
 				descriptionUz: "",
 				descriptionRu: "",
 				category: "bathrobe",
